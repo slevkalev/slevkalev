@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @slevkalev
 - 👀 I’m interested in ... developing the skills to make web apps and build better websites
-- 🌱 I’m currently learning ... nodejs javascript and css and have some knowledge of php sql and python
-- 💞️ I’m looking to collaborate on ... when I feel I'm prepared enough to take on something more I will collaborate
+- 🌱 I’m currently learning ... nodejs, react, javascript and css and have some knowledge of php sql and python
 - 📫 How to reach me ... jsnelg@gmail.com
 
 <!---
